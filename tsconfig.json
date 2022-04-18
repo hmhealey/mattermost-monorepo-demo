@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": ".",
+        "jsx": "react",
+        "paths": {
+            "@mattermost/types/*": ["node_modules/@mattermost/types/lib/*"]
+        }
+    }
+}
