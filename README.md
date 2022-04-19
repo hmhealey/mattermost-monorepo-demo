@@ -1,6 +1,6 @@
 # Mattermost Monorepo Demo App
 
-This app is a demo to illustrate how to use the [0@mattermost/client](https://www.npmjs.com/package/@mattermost/client) and [@mattermost/types](https://www.npmjs.com/package/@mattermost/types). See their READMEs for more information.
+This app is a demo to illustrate how to use the [@mattermost/client](https://www.npmjs.com/package/@mattermost/client) and [@mattermost/types](https://www.npmjs.com/package/@mattermost/types). See their READMEs for more information.
 
 When run, this app lets you connect to a Mattermost instance on http://localhost:8065, log in, and make some sample requests in a TypeScript environment.
 ## Available Scripts
